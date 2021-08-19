@@ -5,9 +5,8 @@
 
 ### Hi there 👋
 
-- 🌱 I'm currently learning full stack web development.
-- ⚙️ I use daily: `.ejs`, `.js`, `.html`, `.css`
 - 🌱 Learning all about **Web development**
+- ⚙️ I use daily: `.ejs`, `.js`, `.html`, `.css`
 - 👯 Proyects: [SpellBook](https://github.com/MacarenaPrz/grupo_7_Spellbook) (WIP)
 - 💬 Ping me about **javaScript**, **CSS**, **design**, **development**, **photography...**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/rociomacarenaperez/)
