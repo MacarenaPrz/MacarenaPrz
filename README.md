@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img src="https://github.com/MacarenaPrz/MacarenaPrz/blob/master/macarena-prz.gif?raw=true" alt="Macarena Perez" />
+</h1>
+
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
