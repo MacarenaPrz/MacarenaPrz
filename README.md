@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/MacarenaPrz/MacarenaPrz/06db163584c821f813ecd53ac6948275d0ed72fd/Macarena.svg" width="100%" align="center" alt="Macarena Perez" />
+  <img src="https://raw.githubusercontent.com/MacarenaPrz/MacarenaPrz/3b69fefe698eb568954ba44f698893a3cb2eb624/Macarena%20banner.svg" width="100%" alt="Macarena Perez" />
 </h1>
 
 
