@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 - 🌱 Learning all about **Web development**
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ejs`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ejs`, `.jsx`
 - 👯 Projects: [SpellBook](https://github.com/MacarenaPrz/grupo_7_Spellbook)
 - 💬 Ping me about **javaScript**, **CSS**, **design**, **development**, **photography...**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/rociomacarenaperez/)
